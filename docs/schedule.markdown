@@ -23,7 +23,6 @@ Affiliations: PhD student, Compmem lab, Systems and Behavioral Neuroscience Sect
 Affiliations: PhD student, Cang lab, Department of Biology, University of Virginia.
 
 ## March 29, 2023: Shichu Chang and Wenjin Xu
-### 
 Affiliations: PhD students, Liu lab, Department of Biology, University of Virginia.
 
 ## April 19, 2023: Christopher Hall

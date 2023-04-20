@@ -4,17 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
-Print this
+The Neuro-Data Interest Group (NDIG) is an interdisciplinary, student-led group of graduate students at the University of Virginia. Our mission is to foster a collaborative, vibrant environment for understanding, developing and applying data-intensive approaches to understanding the brain, neural systems and behavior. Despite coming from many different research areas and perspectives, we find common ground through the application of complex techniques and concepts in data science to our work. Group members meet regularly to share our work, receive feedback, learn from guest speakers and discuss ideas. 

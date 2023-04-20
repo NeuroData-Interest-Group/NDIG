@@ -37,12 +37,10 @@ Affiliations: PhD student, Van Horn lab, School of Data Science, University of V
 ### Transcriptomic comparison among multiple species superior colliculus
 Affiliations: PhD candidate, Campbell and Cang labs, Department of Biology, University of Virginia. 
 
-## May 17, 2023: Special Guest Dr. Ryan Kirkpatrick
-### 
+## May 17, 2023: Special Guest Dr. Ryan Kirkpatrick 
 Affiliations: Compmem lab, Cognitive Section, Department of Psychology, University of Virginia
 
 ## May 31, 2023: Special Guest Dr. Hui Chen
-### 
 Affiliations: Cang lab, Department of Biology, University of Virginia
 
 

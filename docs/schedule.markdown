@@ -29,8 +29,7 @@ Affiliations: PhD students, Liu lab, Department of Biology, University of Virgin
 ### Jumping back in time: A computational model of episodic memory constrained by biological viability.
 Affiliations: PhD student, Compmem lab, Systems and Behavioral Neuroscience Section, Department of Psychology, University of Virginia.
 
-## April 26, 2023: Zach Jacokes
-### Exploratory Graph Analysis Update
+## April 26, 2023: Zach Jacokes - postponed
 Affiliations: PhD student, Van Horn lab, School of Data Science, University of Virginia.
 
 ## May 10, 2023: Yuanming "Ming" Liu
